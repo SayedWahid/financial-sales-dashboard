@@ -85,11 +85,3 @@ The dashboard enables management to monitor **agent performance, customer conver
 - Provides insights into **customer engagement patterns**.  
 - Establishes benchmarks for **ideal call duration** to maximize conversions.  
 
----
-
-## 8. Next Steps
-- Add **time-series analysis** (if date field becomes available).  
-- Include **product-level insights** when detailed product categories are added.  
-- Extend with **trend tracking & forecasting** for future performance planning.  
-
----
